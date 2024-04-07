@@ -2,9 +2,9 @@
 
 ### O que deve ser feito?
 
-- [ ] Crie uma pasta chamada 'inputs' e crie um documento de texto com algumas sentenças
-- [ ] Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças
-- [ ] Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+- [x] Crie uma pasta chamada 'inputs' e crie um documento de texto com algumas sentenças
+- [x] Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças
+- [x] Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
 ### Procedimento
 
@@ -55,8 +55,6 @@ Você pode fazer isso indo nas configurações e selecionando **Criar novo recur
 ![alt text](../images/OutputText.png)
 
 ### *Insights* e conclusões
-
-**Conclusão e Insights**
 
 A experiência com o Microsoft Speech Studio e Language Studio foi uma jornada de aprendizado. A capacidade dessas ferramentas de converter áudio em texto e realizar análises de sentimentos é impressionante e abre um mundo de possibilidades.
 
