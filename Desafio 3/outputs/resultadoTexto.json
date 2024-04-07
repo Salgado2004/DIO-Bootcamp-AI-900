@@ -1,0 +1,370 @@
+{
+    "documents": [
+        {
+            "id": "id__1175",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.54,
+                "neutral": 0.06,
+                "negative": 0.4
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0,
+                        "negative": 0.02
+                    },
+                    "offset": 0,
+                    "length": 76,
+                    "text": "Foi um jogo de voleibol emocionante e tenso que se estendeu por cinco sets. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.04
+                            },
+                            "offset": 7,
+                            "length": 4,
+                            "text": "jogo",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.04
+                            },
+                            "offset": 15,
+                            "length": 8,
+                            "text": "voleibol",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 24,
+                            "length": 11,
+                            "text": "emocionante",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.93,
+                                "negative": 0.07
+                            },
+                            "offset": 38,
+                            "length": 5,
+                            "text": "tenso",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 76,
+                    "length": 123,
+                    "text": "O time pelo qual eu torcia jogou com garra e determinação, mostrando uma incrível habilidade técnica e espírito de equipe. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 78,
+                            "length": 4,
+                            "text": "time",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 179,
+                            "length": 8,
+                            "text": "espírito",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/2"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 191,
+                            "length": 6,
+                            "text": "equipe",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/2"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 113,
+                            "length": 5,
+                            "text": "garra",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 121,
+                            "length": 12,
+                            "text": "determinação",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 149,
+                            "length": 8,
+                            "text": "incrível",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.72,
+                        "neutral": 0.03,
+                        "negative": 0.25
+                    },
+                    "offset": 199,
+                    "length": 127,
+                    "text": "Cada ponto era disputado com intensidade, e a vantagem oscilava de um lado para o outro, mantendo todos na ponta dos assentos.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.71,
+                        "neutral": 0.27,
+                        "negative": 0.02
+                    },
+                    "offset": 326,
+                    "length": 107,
+                    "text": "O primeiro set foi uma demonstração de força do nosso time, que conseguiu fechar com uma pequena vantagem. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.32,
+                        "negative": 0.62
+                    },
+                    "offset": 433,
+                    "length": 91,
+                    "text": "No entanto, o adversário reagiu rapidamente e levou o segundo set, equilibrando a partida. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.5,
+                        "neutral": 0.01,
+                        "negative": 0.48
+                    },
+                    "offset": 524,
+                    "length": 190,
+                    "text": "O terceiro e quarto sets foram uma montanha-russa de emoções, com ralis longos e defesas espetaculares, mas no final, cada time levou um set, levando a disputa para o quinto e decisivo set.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 606,
+                            "length": 7,
+                            "text": "defesas",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/5/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 614,
+                            "length": 13,
+                            "text": "espetaculares",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 714,
+                    "length": 100,
+                    "text": "No último set, apesar do cansaço e da pressão, o time pelo qual eu torcia lutou até o último ponto. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.96,
+                                "negative": 0.04
+                            },
+                            "offset": 765,
+                            "length": 4,
+                            "text": "time",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.96,
+                                "negative": 0.04
+                            },
+                            "offset": 790,
+                            "length": 5,
+                            "text": "lutou",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 814,
+                    "length": 110,
+                    "text": "Infelizmente, não foi o suficiente para vencer, e o adversário acabou levando a melhor por uma margem mínima. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 924,
+                    "length": 59,
+                    "text": "Apesar da derrota, fiquei orgulhoso do desempenho do time. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 983,
+                    "length": 78,
+                    "text": "Eles jogaram com coração e mostraram que têm potencial para vencer no futuro. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.04,
+                        "negative": 0.01
+                    },
+                    "offset": 1061,
+                    "length": 75,
+                    "text": "Foi uma partida que, sem dúvida, ficará na memória de todos que assistiram.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
