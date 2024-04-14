@@ -47,9 +47,7 @@ Esse procedimento foi feito baseado na [documentação da Microsoft](https://aka
 
 ![](image-4.png)
 
-10. Na parte de computação, existe uma máquina virtual recomendada pela documentação. Mas é possível selecionar a que estiver disponível para sua assinatura (Ou a que for menos cara 😅)
-
-11. Infelizmente eu não consegui avançar desse desafio, porque já não tinha mais créditos gratuitos, e limitando os recursos para não gastar o Azure não consegue completar o trabalho
+10. Infelizmente eu não consegui avançar desse desafio, porque já não tinha mais créditos gratuitos, e limitando os recursos para não gastar o Azure não consegue completar o trabalho
 
 ![alt text](image-6.png)
 
